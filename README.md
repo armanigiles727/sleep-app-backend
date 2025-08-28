@@ -32,5 +32,5 @@ This is the backend API for the Sleep App project, built with **FastAPI**. It po
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sleep-app-api.git
+git clone https://github.com/armanigiles727/sleep-app-api.git
 cd sleep-app-api
